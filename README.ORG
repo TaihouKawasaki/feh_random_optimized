@@ -1,0 +1,4 @@
+** description
+If you have the same problem as me when feh lags whole system when searching for random wallpaper, then this is for you. this python script loads whole directory listing in the .ini file and randomizes based on the .ini file contents.
+** How to update config
+Delete config.ini from the directory of the python script
